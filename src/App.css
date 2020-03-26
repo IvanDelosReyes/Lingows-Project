@@ -1,27 +1,97 @@
+#root{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100vh;
+}
+::placeholder {
+  font-size:16px;
+
+}
+input{
+  width: 100%;
+    height: 40px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-top: 15px;
+    border-radius: 2px;
+    border: solid 1px #CBCED3;
+    box-sizing: border-box;
+    font-family: roboto;
+}
+textarea{
+  width: 100%;
+  height:140px;
+padding:8px;
+    margin: auto;
+    border-radius: 2px;
+    box-sizing: border-box;
+    margin-top:15px;
+    border: solid 1px #CBCED3;
+    font-family: roboto;
+}
+.label{
+  display:none;
+}
+.button{
+  width:150px;
+  height:48px;
+  background-color: #647abb;
+  color:white;
+  border-style: none;
+  border-radius:5px;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top:15px;
+}
+.container{
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:30px;
+  padding-bottom:30px;
+  background-color: #f1f1f1;
+  border-radius: 0px 0px 5px 5px;
+}
+h3{
+  font-size:20px;
+}
+h1{
+  margin-top:0px;
+}
+.App p{
+  text-align:left;
+  margin:0px;
+}
 .App {
   text-align: center;
+  width: 300px;
+    border-radius:5px;
+    /* box-shadow: 2px 2px 25px 2px rgba(0, 0, 0, 0.17); */
+    box-shadow: 0px 0 2px 0 rgba(0,0,0,0.16), 0 0 2px 0 rgba(0,0,0,0.16), 0 3px 2px 0 rgba(0,0,0,0.23);
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
+  display: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
+/* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #647abb;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  border-radius: 5px 5px 0px 0px;
 }
 
 .App-link {
@@ -36,3 +106,4 @@
     transform: rotate(360deg);
   }
 }
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
