@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "How the new iPad Air stacks up against the competition - CNET",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dHdxa3BuM2dhdTTSAQA?oc=5",
+      "urlToImage": "https://i.ytimg.com/vi/twqkpn3gau4/maxresdefault.jpg",
+      "publishedAt": "2020-09-16T07:54:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Matt Espineli",
+      "title": "PlayStation 5: All The Confirmed PS5 Launch Games And Release Dates - GameSpot",
+      "description": "Here are all the PS5 games you can expect to play at or around the console's launch in 2020.",
+      "url": "https://www.gamespot.com/articles/playstation-5-all-the-confirmed-ps5-launch-games-and-release-dates/1100-6482208/",
+      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1552/15524586/3734743-3624733-3325305982-35897.jpg",
+      "publishedAt": "2020-09-16T05:49:00Z",
+      "content": "We still don't know exactly what Sony has in store for the big PS5 showcase event this week, but it's possible we'll finally learn the upcoming next-generation console's price and release date. Aside… [+1690 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Tom Bedford",
+      "title": "6 things the September Apple Event can tell us about the iPhone 12 - TechRadar",
+      "description": "Reading between the Watch and iPad lines",
+      "url": "https://www.techradar.com/news/6-things-the-september-apple-event-tells-us-about-the-iphone-12",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BbXZiRbM6cyimrTwVJqMJP-1200-80.jpg",
+      "publishedAt": "2020-09-16T05:00:00Z",
+      "content": "So the iPhone 12 didn't show up at Apple's September event. That's what we were expecting, although some were holding their breath for a surprise unveiling. We'll likely now see the phones announced … [+5438 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sam Byford",
+      "title": "The next Nintendo Switch Online games include Donkey Kong Country 2 - The Verge",
+      "description": "Nintendo has announced the next round of games to be added to the ever-growing Nintendo Switch Online retro library, including Donkey Kong Country 2, Mario’s Super Picross, and more.",
+      "url": "https://www.theverge.com/2020/9/15/21439181/donkey-kong-country-2-nintendo-switch-online-september-games",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KOGVMlF2oXKOFrJaKuHoTd9S1aA=/0x82:1146x682/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21884411/Screen_Shot_2020_09_16_at_11.51.12.png",
+      "publishedAt": "2020-09-16T02:58:27Z",
+      "content": "And more importantly, Marios Super Picross"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Spotify criticizes new Apple services bundle on antitrust grounds - Reuters India",
+      "description": "Streaming music firm Spotify Technology SA <SPOT.N> on Tuesday criticized rival Apple Inc <AAPL.O>, saying that a new subscription bundle offer from the iPhone maker abuses its dominant market position by favoring its own Apple Music service.",
+      "url": "https://in.reuters.com/article/apple-spotify-idINKBN26707E",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533614235&r=LYNXMPEG8F04B&w=800",
+      "publishedAt": "2020-09-16T02:03:00Z",
+      "content": "By Reuters Staff\r\n(Reuters) - Streaming music firm Spotify Technology SA SPOT.N on Tuesday criticized rival Apple Inc AAPL.O, saying that a new subscription bundle offer from the iPhone maker abuses … [+811 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Mario's Super Picross - How to Play - Nintendo Switch Online - Nintendo",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9V09yWjA3UFZvNUnSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-16T01:00:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Nexstar Media Wire",
+      "title": "New software update will ‘transform the core experience of iPhone,’ Apple says - KTLA",
+      "description": "Starting Wednesday, big changes are coming to group chats, video viewing and app organization.",
+      "url": "https://ktla.com/news/nationworld/new-software-update-will-transform-the-core-experience-of-iphone-apple-says/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2020/09/GettyImages-1037170200.jpg?w=1280",
+      "publishedAt": "2020-09-16T00:54:00Z",
+      "content": "The iPhone experience will change Wednesday with the release of Apple’s newest operating system, iOS14. \r\nThe software upgrade will serve as a refresh for iPhone 6 and later models and is described b… [+902 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Marc Deschamps",
+      "title": "Crysis Remastered Comparison Trailer Released - ComicBook.com",
+      "description": "Ahead of Crysis Remastered's debut later this week, developer Crytek has released a brand-new comparison trailer for the game. In the trailer, viewers can get a glimpse at how the upcoming re-release will compare graphically to the 2007 game. The original Cry…",
+      "url": "https://comicbook.com/gaming/news/crysis-remastered-comparison-trailer-8k/",
+      "urlToImage": "https://media.comicbook.com/2020/04/crysis-remastered-1215847-1280x0.jpeg",
+      "publishedAt": "2020-09-16T00:06:00Z",
+      "content": "Ahead of Crysis Remastered's debut later this week, developer Crytek has released a brand-new comparison trailer for the game. In the trailer, viewers can get a glimpse at how the upcoming re-release… [+2286 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Xbox Game Pass Ultimate - Official Mobile Trailer - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WEwtcjVrdElMdDDSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-15T23:39:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "New AMD Radeon Card Revealed In Fortnite | Save State - GameSpot",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9R2tIWkVPRlRFSk3SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-15T23:30:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Headlines"
+      },
+      "author": null,
+      "title": "OnePlus 8T Preview: Release Date, Specs, Price & More - Android Headlines",
+      "description": "Here's all of the latest on the OnePlus 8T, including the rumored specs, leaks, release date price and much more.",
+      "url": "https://www.androidheadlines.com/2020/09/oneplus-8t-preview.html",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2020/09/OnePlus-8T-Pricebaba-leak-featured.jpg",
+      "publishedAt": "2020-09-15T23:02:01Z",
+      "content": "The OnePlus 8T is right around the corner. Truth be said, not much information surfaced up until this point, but we do have some info to share with you. Before we begin, its worth noting that the pho… [+6815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "10 best sideloaded apps for Android you can't find in Google Play - Android Authority",
+      "description": "You can find most of the best apps in the Play Store, but not everything. Here are the best sideloaded apps for Android!",
+      "url": "https://www.androidauthority.com/best-sideloaded-apps-android-1155580/",
+      "urlToImage": "https://cdn57.androidauthority.net/wp-content/uploads/2019/04/Google-Play-Store-APKMirror-920x470.jpg",
+      "publishedAt": "2020-09-15T23:01:01Z",
+      "content": "The Google Play Store is, no doubt, the best place to get apps. It has a massive selection from the most popular developers and its security features are top notch. You simply cant get the same exper… [+7890 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": null,
+      "title": "Google wants people to use Meet with its own Meet-y hardware bundles - Android Police",
+      "description": "Google is once again expanding its hardware offerings by getting into the webcam business — though, this bid screams more of Cisco than Logitech.",
+      "url": "https://www.androidpolice.com/2020/09/15/google-wants-people-to-use-meet-with-its-own-meet-y-hardware-bundles/",
+      "urlToImage": "https://www.androidpolice.com/wp-content/uploads/2020/09/15/google-series-one-in-situ.png",
+      "publishedAt": "2020-09-15T22:35:00Z",
+      "content": "Google is once again expanding its hardware offerings by getting into the webcam business — though, this bid screams more of Cisco than Logitech. The company is selling videoconferencing equipment bu… [+2163 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Tristan Greene",
+      "title": "Sony’s new AI agent achieves superhuman Gran Turismo Sport scores - The Next Web",
+      "description": "One of the best things about computers is that they can learn just as much from a simulation as they can from so-called ‘real world’ experiences. That means, given the proper simulator, we can teach AI to drive cars without ever putting a single human in dang…",
+      "url": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F09%2Fgtsai.jpg&signature=8689b60875972e4b01b667d6d985834b",
+      "publishedAt": "2020-09-15T22:03:00Z",
+      "content": "One of the best things about computers is that they can learn just as much from a simulation as they can from so-called real world experiences. That means, given the proper simulator, we can teach AI… [+3977 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Matt Binder",
+      "title": "Apple surprised iPhone users with a next-day iOS 14 release. App developers are pissed. - Mashable",
+      "description": "iPhone app developers won't be sleeping tonight.",
+      "url": "https://mashable.com/article/apple-iphone-ios-14-app-developers-release/",
+      "urlToImage": "https://mondrian.mashable.com/2020%252F09%252F15%252F06%252F1eb7862ec63348a8b8bd60b4bbf009e3.41493.jpg%252F1200x630.jpg?signature=lG10VZqcVtsPPHQgXFYZmI32yoc=",
+      "publishedAt": "2020-09-15T21:56:00Z",
+      "content": "Apple fans who were waiting for an iPhone 12 unveiling at the Apple Event today may be a little disappointed. But, Apple gave them a treat to hold them over instead: an announcement that iOS 14 is be… [+5336 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Taylor Lyles",
+      "title": "You can play Rocket League for free starting on September 23rd - The Verge",
+      "description": "Rocket League is switching over to a free-to-play model on September 23rd. The game will also get cross-platform progression, allowing players to carry their data over to another platform of the game.",
+      "url": "https://www.theverge.com/2020/9/15/21438194/rocket-league-free-to-play-release-date-psyonix-epic-games",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/6ehA0x_HlNOAesb05B1YrozhDqo=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/3869340/ss_fe3046dedee4205e2d1c461ce1950c3bf880a3d7.1920x1080.0.jpg",
+      "publishedAt": "2020-09-15T21:23:20Z",
+      "content": "Players who already own Rocket League will get some in-game rewards"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Austen Goslin",
+      "title": "Fortnite debuts improved ray-tracing graphics on Sept. 17 - Polygon",
+      "description": "Epic and Nvidia have partenered to bring upgraded graphics to Fortnite players who use Nvidia’s RTX line of graphics cards. The new graphics will launch on Sept. 17.",
+      "url": "https://www.polygon.com/fortnite/2020/9/15/21438607/fortnite-rtx-improved-graphics-upgrade-release-date-sept-17",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SiUtFfetyE2FgP18jlXVBz449vI=/0x56:2880x1564/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21883697/fortnite_geforce_rtx_screenshot_010_rtx_on.jpg",
+      "publishedAt": "2020-09-15T21:14:30Z",
+      "content": "Fortnites getting a graphics update soon, at least for some players. On Sept. 17, Nvidia will launch a whole suite of new graphical upgrades mostly focused around real-time ray tracing. \r\nReal-time r… [+1176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Jenae Sitzes",
+      "title": "GameStop Is Offering Payment Plans For Xbox Series X And PS5 - GameSpot",
+      "description": "The company plans to offer multiple payment options for the next-gen consoles this holiday season.",
+      "url": "https://www.gamespot.com/articles/gamestop-is-offering-payment-plans-for-xbox-series-x-and-ps5/1100-6482010/",
+      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1591/15918215/3732609-gettyimages-1227730798%282%29.jpg",
+      "publishedAt": "2020-09-15T20:37:00Z",
+      "content": "GameStop customers will be able to pay for their PlayStation 5 or Xbox Series X in installments this holiday season. The new options for payment include a layaway option, third-party installment plan… [+2249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Stacy Liberatore",
+      "title": "'Bionic eye' linked to chip in brain could cure blindness - Daily Mail",
+      "description": "After more than 10 years, Australian scientists are set to start human trials of a 'bionic eye.' The system links to a chip that is implanted into the brain, which the team claims cures blindness.",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-8735933/Human-trials-bionic-eye-links-directly-chip-brain-cure-blindness.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/09/15/21/33223050-0-image-a-9_1600200544049.jpg",
+      "publishedAt": "2020-09-15T20:09:28Z",
+      "content": "It has been more than 10 years in the making, but scientists are preparing to implant a 'bionic eye' in a human subject.\r\nResearchers at Monash University have developed wireless implants that sit on… [+5326 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "13 Sentinels: Aegis Rim Review - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MGFNMDlLYUo5cknSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-15T20:08:21Z",
+      "content": null
+    }
+  ]
+}
